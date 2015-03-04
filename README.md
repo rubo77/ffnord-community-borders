@@ -5,5 +5,5 @@ Discussion: https://forum.freifunk.net/t/3152
 
 Please feel free to add issues and pull requests to change the borders as you wish
 
-A first test for an online map here:
+A first test for an online map here: http://cdb.io/18kbIxo
 https://rubo77.cartodb.com/tables/ffnord/map
